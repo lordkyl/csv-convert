@@ -1,0 +1,17 @@
+body {
+  padding:1rem;
+ 
+}
+
+.InputControls {
+  width: 40rem;
+  max-width: 80vw;
+
+  margin:0 auto;
+  border:1px solid lightgrey;
+  border-radius: 1rem;
+
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+
+  padding:2rem;
+}
